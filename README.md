@@ -1,11 +1,11 @@
 <!--
  * @Author        Jafekin 1946847867@qq.com
  * @Date          2025-12-09 12:34:40
- * @LastEditTime  2025-12-09 12:38:19
+ * @LastEditTime  2025-12-09 12:41:46
  * @Description   
  * 
 -->
-# LLM-Powered Robot Task Planner
+# Robotic task planning agent programme using LLM
 
 > 机器人ROS操作系统大作业
 
