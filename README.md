@@ -1,11 +1,5 @@
-<!--
- * @Author        Jafekin 1946847867@qq.com
- * @Date          2025-12-09 12:34:40
- * @LastEditTime  2025-12-09 12:41:46
- * @Description   
- * 
--->
 # Robotic task planning agent programme using LLM
+# 基于LLM的机器人任务规划代理
 
 > 机器人ROS操作系统大作业
 
